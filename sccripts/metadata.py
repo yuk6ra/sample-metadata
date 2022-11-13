@@ -7,7 +7,8 @@ DATA_FOLDER_NAME = "metadata/"
 SAVE_DATA_PATH = f'{MAIN_PATH}/{DATA_FOLDER_NAME}'
 
 SUPPLY = 10
-IMAGE_URI = "https://yuk6ra.github.io/sample-metadata/images"
+DOMAIN = "metadata.prtcl.xyz"
+IMAGE_URI = f"https://{DOMAIN}/images"
 DESCRIPTION = "test"
 
 def main():
