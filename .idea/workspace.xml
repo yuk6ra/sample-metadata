@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f4b409-5064-4a3a-ac78-33b8c678194f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sccripts/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sccripts/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/metadata.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
