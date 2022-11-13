@@ -3,6 +3,10 @@
 
 ## Metadata
 
-baseURI: `https://yuk6ra.github.io/sample-metadata/metadata/{token_id}`
+baseURI
 
-notRevealedURI: `https://yuk6ra.github.io/sample-metadata/metadata/{token_id}`
+`https://metadata.prtcl.xyz/metadata/{token_id}/`
+
+notRevealedURI: 
+
+`https://metadata.prtcl.xyz/metadata/notrevealed/0`
