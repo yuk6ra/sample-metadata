@@ -2,13 +2,14 @@ import PIL.Image
 import PIL.ImageDraw
 import PIL.ImageFont
 
-SUPPLY = 100
+SUPPLY = 10
+
+fontsize = 50
+backgroundRGB = (255, 255, 255)
 
 for i in range(SUPPLY):
-    token_id = i + 1
+    token_id = i
     text = f"Sample #{token_id}"
-    fontsize = 50
-    backgroundRGB = (255, 255, 255)
 
     img = PIL.Image.new('RGB', (300, 300), backgroundRGB)
     draw = PIL.ImageDraw.Draw(img)

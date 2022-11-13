@@ -6,8 +6,8 @@ MAIN_PATH = f'..'
 DATA_FOLDER_NAME = "metadata/"
 SAVE_DATA_PATH = f'{MAIN_PATH}/{DATA_FOLDER_NAME}'
 
-SUPPLY = 100
-IMAGE_URI = ""
+SUPPLY = 10
+IMAGE_URI = "https://yuk6ra.github.io/sample-metadata/images"
 DESCRIPTION = "test"
 
 def main():
@@ -18,7 +18,7 @@ def main():
     image = IMAGE_URI
     description = DESCRIPTION
 
-    for token_id in range(1, supply + 1):
+    for token_id in range(0, supply):
         metadata = create_metadata(token_id, image, description)
         output(metadata, token_id)
 
@@ -36,7 +36,7 @@ def output(data, token_id):
 def create_metadata(token_id, image, description):
     data = {
         "name": f"Sample {token_id}",
-        "image": f"{image}/{token_id}",
+        "image": f"{image}/{token_id}.png",
         "description": description,
     }
     return data

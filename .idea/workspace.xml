@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f4b409-5064-4a3a-ac78-33b8c678194f" name="Default Changelist" comment="" />
+    <list default="true" id="e8f4b409-5064-4a3a-ac78-33b8c678194f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/NotRevealed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metadata/notreveal/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata/99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sccripts/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/sccripts/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sccripts/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/sccripts/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/notreveal.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +122,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2HTy3I6wLY6I2EtLE4nDlUl2EP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +134,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sccripts/images.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\halcyon9636\Documents\OneDrive\Dev\python\sample-metadata\metadata\notreveal" />
+      <recent name="D:\halcyon9636\Documents\OneDrive\Dev\python\sample-metadata\metadata" />
       <recent name="C:\Users\halcyon9636\OneDrive\Dev\python\sample-metadata" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\halcyon9636\OneDrive\Dev\python\sample-metadata\assets" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.metadata">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="sample-metadata" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +190,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="metadata" type="PythonConfigurationType" factoryName="Python">
+      <module name="sample-metadata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\halcyon9636\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sccripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sccripts/metadata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.images" />
+      <item itemvalue="Python.metadata" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -99,29 +242,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668324243481">
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668325054501">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1668324243481" />
-    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1668324233847">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1668325054501" />
+    <state x="632" y="166" key="FileChooserDialogImpl" timestamp="1668336994287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1668324233847" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1668324791144">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1668325053852" />
+    <state x="632" y="166" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668336994287" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1668338562945">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1668324791144" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1668324791143">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668338562945" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1668338562945">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1668324791143" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1668324791143">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668338562945" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1668338562945">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1668324791143" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1668324791144">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668338562945" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1668338562945">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1668324791144" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668338562945" />
   </component>
 </project>
