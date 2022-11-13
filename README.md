@@ -5,7 +5,7 @@
 
 baseURI
 
-`https://metadata.prtcl.xyz/metadata/{token_id}/`
+`https://metadata.prtcl.xyz/metadata/{token_id}`
 
 notRevealedURI: 
 
