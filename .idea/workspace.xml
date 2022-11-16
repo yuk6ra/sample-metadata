@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f4b409-5064-4a3a-ac78-33b8c678194f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sccripts/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sccripts/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts/metadata.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -93,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\halcyon9636\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sccripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sccripts/metadata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/metadata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,35 +138,36 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668325054501">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1668325054501" />
-    <state x="632" y="166" key="FileChooserDialogImpl" timestamp="1668336994287">
+    <state x="144" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668567157380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1668325053852" />
-    <state x="632" y="166" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668336994287" />
-    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1668340660186">
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1668325054501" />
+    <state x="144" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668567157380" />
+    <state x="632" y="166" key="FileChooserDialogImpl" timestamp="1668567156051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1668492590752" />
+    <state x="632" y="166" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668567156051" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1668343845286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
-    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668340660186" />
-    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1668340660185">
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668343845286" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1668343845285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
-    <state width="1899" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668340660185" />
-    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1668340660185">
+    <state width="1899" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668343845285" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1668343845285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
-    <state width="1899" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668340660185" />
-    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1668340660185">
+    <state width="1899" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668343845285" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1668343845285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1668325589555" />
-    <state width="1899" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668340660185" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1668343845285" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1668339359149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

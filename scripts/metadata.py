@@ -39,6 +39,19 @@ def create_metadata(token_id, image, description):
         "name": f"Sample {token_id}",
         "image": f"{image}/{token_id}.png",
         "description": description,
+
+        "trait_type_1": "Trait",
+        "trait_type_2": "Trait",
+        "trait_type_3": "Trait",
+        "trait_type_4": "Trait 4",
+        "trait_type_5": "Trait 5",
+
+        "value_1": f"{token_id + 1}",
+        "value_2": f"{token_id + 2}",
+        "value_3": f"{token_id + 3}",
+        "value_4": f"value 4_{token_id % 4}",
+        "value_5": f"value 5_{token_id % 5}",
+
     }
     return data
 
