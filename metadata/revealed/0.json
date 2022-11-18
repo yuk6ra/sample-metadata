@@ -1,0 +1,27 @@
+{
+  "name": "Revealed #0",
+  "description": "test",
+  "image": "https://metadata.prtcl.xyz/images/revealed/0.png",
+  "attributes": [
+    {
+      "trait_type": "Trait",
+      "value": "1"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "2"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "3"
+    },
+    {
+      "trait_type": "Trait 4",
+      "value": "value 4_0"
+    },
+    {
+      "trait_type": "Trait 5",
+      "value": "value 5_0"
+    }
+  ]
+}
