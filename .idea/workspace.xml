@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f4b409-5064-4a3a-ac78-33b8c678194f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/unrevealed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/notrevealed.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/unrevealed/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata/notrevealed/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/metadata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/revealed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
